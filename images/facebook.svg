@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="14.8704859" cy="15" rx="14.5207033" ry="14.6511628"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="29.0414067" height="29.3023256" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="login_mobile" transform="translate(-80.000000, -3270.000000)">
+            <g id="facebook" transform="translate(80.000000, 3270.500000)">
+                <use id="Oval-54-Copy-7" stroke="#74A3C7" mask="url(#mask-2)" stroke-width="2.4" xlink:href="#path-1"></use>
+                <path d="M17.9954623,9.75594106 C17.4960106,9.56816917 16.5781811,9.53972868 16.0654188,9.53972868 C14.5670637,9.53972868 13.9463036,10.7507119 13.9463036,12.2069944 L13.9463036,13.1733248 L13.055398,13.1733248 L13.055398,15.0911189 L13.9463036,15.0911189 L13.9463036,20.3829896 L15.7547362,20.3829896 L15.7547362,15.0911189 L17.5498582,15.0911189 L17.5498582,13.1733248 L15.7547362,13.1733248 L15.7547362,12.0340891 C15.7547362,11.5583573 16.5107204,11.313058 16.8616374,11.313058 C17.1450936,11.313058 17.4554736,11.3709086 17.7253167,11.4575228 L17.9954623,9.75594106" id="Imported-Layers-Copy-12" fill="#74A3C7"></path>
+            </g>
+        </g>
+    </g>
+</svg>
